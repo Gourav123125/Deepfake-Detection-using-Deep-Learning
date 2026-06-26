@@ -1,0 +1,22 @@
+# ── Core Deep Learning ──────────────────────────────────────────
+torch>=2.0.0
+torchvision>=0.15.0
+
+# ── Image & Video Processing ─────────────────────────────────────
+Pillow>=10.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# ── Face Detection ───────────────────────────────────────────────
+facenet-pytorch>=2.5.3      # MTCNN face detector (optional but recommended)
+
+# ── Web Application ──────────────────────────────────────────────
+flask>=3.0.0
+werkzeug>=3.0.0
+
+# ── Training Utilities ───────────────────────────────────────────
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+
+# ── Progress & Logging ───────────────────────────────────────────
+tqdm>=4.66.0
