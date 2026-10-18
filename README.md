@@ -1,8 +1,5 @@
 # DeepFake Detection System
 ### SVSU B.Tech CSE (AI/ML) Capstone Project
-**Team:** Gourav (23UGBC35121) | Divyansh Kumar (23UGBC35116) | Arpit Verma (23UGBC35113)
-**Supervisor:** Ms. Manisha Mudgal
-
 ---
 
 ## Architecture
